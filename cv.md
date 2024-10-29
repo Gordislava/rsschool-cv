@@ -1,8 +1,9 @@
 # Yaraslava Panamarova
 
 ## Contacts
-[Link](https://github.com/Gordislava)
-[Link](https://www.linkedin.com/in/yaraslava-panamarova/)
+[Github](https://github.com/Gordislava)
+
+[LinkedIn](https://www.linkedin.com/in/yaraslava-panamarova/)
 
 ---
 
