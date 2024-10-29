@@ -5,17 +5,20 @@
 
 [LinkedIn](https://www.linkedin.com/in/yaraslava-panamarova/)
 
----
+
 
 ## About
+
 Frontend developer with experience working with the Vue framework
----
+
 
 ## Skills
+
 * HTML
 * CSS
 * Javascript
----
+
+
 
 ## Code Examples
 
@@ -52,7 +55,6 @@ function proofread(str) {
 }
 ```
 
----
 
 ## Languages
 
